@@ -1,0 +1,7 @@
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: dotted;
+    align-items: center;
+    border: 1px blue dotted; 
+    padding: 10px 5px;
+}

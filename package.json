@@ -1,0 +1,11 @@
+{
+  "name": "clases-ts",
+  "version": "1.0.0",
+  "description": "\"estoy aprendiendo clases\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Sofia_Schenone",
+  "license": "ISC"
+}
